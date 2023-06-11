@@ -1,0 +1,22 @@
+{
+  "name": "backend-numen",
+  "version": "1.0.0",
+  "description": "Tarea N° 1 Numen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgash23/backend-Numen.git"
+  },
+  "author": "Sebastián Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgash23/backend-Numen/issues"
+  },
+  "homepage": "https://github.com/sgash23/backend-Numen#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
